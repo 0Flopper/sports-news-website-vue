@@ -1,10 +1,10 @@
 <template>
-    <section class="flex justify-center mt-5 mx-32 font-DM-Sans">
+    <section class="flex justify-center mt-5 mx-38 font-DM-Sans">
         <div class="flex flex-col w-[100%]">
             <div class="flex justify-center">
                 <div class="flex items-start">
                     <img class="relative right-32" src="@/assets/maintext.svg" alt="Top scorer to the final match">
-                    <img class="relative right-108 top-6" src="@/assets/basketballplayer.svg" alt="basketball player">
+                    <img class="relative right-116 top-6" src="@/assets/basketballplayer.svg" alt="basketball player">
                 </div>
 
                 <div class="flex flex-col pt-22">
@@ -29,7 +29,7 @@
                     </div>
                 </div>
             </div>
-            <div class="flex justify-center items-center relative bottom-20">
+            <div class="flex justify-center items-center relative bottom-38">
                 <div class="flex flex-col gap-4">
                     <p class=" text-lg w-96">The EuroLeague Finals Top Scorer is the individual award for the player that gained the highest points in the EuroLeague Finals</p>
                     <button class="bg-[#262626] text-white w-72 py-3 px-8 rounded-md">Continue Reading</button>
