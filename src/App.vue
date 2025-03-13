@@ -1,7 +1,10 @@
-<template>
+<template >
+  <NavBar />
   <HeroSection />
+
 </template>
 
 <script setup>
-import HeroSection from "@/components/NavBar.vue";
+import NavBar from "@/components/NavBar.vue";
+import HeroSection from "@/components/HeroSection.vue";
 </script>

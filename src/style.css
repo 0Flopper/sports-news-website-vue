@@ -4,4 +4,8 @@
 @theme {
     --font-DM-Sans: DM Sans, "sans-serif";
 }
+
+body {
+    background-color: #F9FAFC;
+}
   

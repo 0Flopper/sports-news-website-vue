@@ -1,7 +1,7 @@
 <template>
     <header class="flex justify-between items-center py-6 px-32 bg-white font-DM-Sans">
         <!-- Logo -->
-        <img src="@/assets/SportNews.svg" alt="Logo">
+        <img src="@/assets/sportnews.svg" alt="Logo">
 
         <!-- Nav Bar -->
         <nav>
