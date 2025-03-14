@@ -2,7 +2,7 @@
     <section class="flex justify-center items-center mt-5 font-DM-Sans">
         <div class="flex flex-col w-full h-190">
             <div class="flex justify-center items-start">
-                <div class="flex items-start ">
+                <div class="flex items-start">
                     <img class="relative right-32" src="@/assets/maintext.svg" alt="Top scorer to the final match">
                     <img class="relative right-116 top-6" src="@/assets/basketballplayer.svg" alt="basketball player">
                 </div>
