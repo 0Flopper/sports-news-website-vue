@@ -16,3 +16,10 @@ body {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.footballsec {
+    background-image: url('/src/assets/footballsecbg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

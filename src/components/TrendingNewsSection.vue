@@ -49,6 +49,12 @@
                     <h1 class=" text-balance">Debits - 03 June 2023</h1>
                     <h2 class="font-bold text-2xl">DISCOVER THE MEMBER BENEFITS OF USA CYCLING!</h2>    
                 </div>
+
+                <div>
+                    <button class=" rounded-sm outline-1 py-1 px-4 outline-[#EBEEF3]">
+                        <p>Cycling</p>
+                    </button>
+                </div>
                 
             </div>
         </div>
