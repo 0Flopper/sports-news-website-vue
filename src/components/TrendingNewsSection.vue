@@ -1,5 +1,5 @@
 <template>
-    <section class="flex flex-col justify-center items-center py-8 px-14 my-8bg-[#E1E8F0] font-DM-Sans">
+    <section class="flex flex-col justify-center items-center py-8 px-14 my-8 bg-[#E1E8F0] font-DM-Sans">
         <!-- Tittle -->
         <h1 class="font-medium text-2xl w-full">Trending News</h1>
 

@@ -1,10 +1,10 @@
 <template>
-    <section class="flex flex-col justify-center items-center mx-38 font-DM-Sans">
+    <section class="flex justify-center items-center font-DM-Sans">
 
-        <div class="flex flex-col justify-center items-center w-full">
+        <div class="flex justify-center items-center w-full">
 
-            <div class="flex flex-col gap-4">
-                <div>
+            <div class="flex flex-col jusitfy-center items-center gap-4 w-full">
+                <div class="w-full">
                     <h1 class="font-medium text-2xl">Category</h1> 
                 </div>
 

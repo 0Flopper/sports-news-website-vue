@@ -1,9 +1,11 @@
 <template >
-  <div class="flex flex-col items-center justify-center">
-    <NavBar />
-    <HeroSection />
-    <CategorySection />
-    <TrendingNewsSection />  
+  <NavBar />
+  <div class="flex items-center justify-center">
+    <div class="flex flex-col w-[1440px]"> 
+      <HeroSection />
+      <CategorySection />
+      <TrendingNewsSection />  
+    </div>
   </div>
   
 
