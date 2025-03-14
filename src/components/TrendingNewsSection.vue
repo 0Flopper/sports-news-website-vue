@@ -37,17 +37,17 @@
                 </div>    
             </div>
 
-            <div class="flex justify-between flex-col w-[65%]">
+            <div class="flex p-8 justify-between flex-col w-[65%] bg-trendingSection text-[#EBEEF3]">
 
                 <div>
-                    <button class=" outline-2 outline-[#EBEEF3] text-[#EBEEF3]">
+                    <button class=" rounded-sm outline-1 py-1 px-4 outline-[#EBEEF3]">
                         <p>Cycling</p>
                     </button>
                 </div>
 
                 <div class="flex flex-col">
-                    <h1>Debits - 03 June 2023</h1>
-                    <h2 class="">DISCOVER THE MEMBER BENEFITS OF USA CYCLING!</h2>    
+                    <h1 class=" text-balance">Debits - 03 June 2023</h1>
+                    <h2 class="font-bold text-2xl">DISCOVER THE MEMBER BENEFITS OF USA CYCLING!</h2>    
                 </div>
                 
             </div>

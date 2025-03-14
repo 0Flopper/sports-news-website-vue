@@ -8,3 +8,11 @@
 body {
     background-color: #F9FAFC;
 }
+
+
+.bg-trendingSection {
+    background-image: url('/src/assets/sportsman.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
