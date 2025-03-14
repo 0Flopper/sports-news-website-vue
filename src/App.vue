@@ -1,7 +1,7 @@
 <template >
   <NavBar />
   <div class="flex items-center justify-center">
-    <div class="flex flex-col w-[1440px]"> 
+    <div class="flex flex-col w-[1170px]"> 
       <HeroSection />
       <CategorySection />
       <TrendingNewsSection />  
