@@ -20,9 +20,9 @@
                 <div class="flex justify-center items-center">
                     <img src="@/assets/cyclistleads.svg" alt="Cyclist Leads">
                     <div class="flex flex-col gap-2 ml-6">
-                        <h1 class="font-light text-xs">Race98 - 03 June 2023</h1>
-                        <h2 class="font-bold text-base text-black">6-Year-Old Horse Dies at Belmont Park After Race Injury</h2>
-                        <h3 class="font-light text-sm">NEW YORK—A 6-year-old horse died after being injured in a race at Belmont Park ahead of next week’s</h3> 
+                        <h1 class="font-light text-xs">Jony.Ls - 03 June 2023</h1>
+                        <h2 class="font-bold text-base text-black">Savilia Blunk Embraces Longer Season with World Cup</h2>
+                        <h3 class="font-light text-sm">Last year, Savilia Blunk took a more conservative approach to her first season as an Elite Class athlete, skipping some</h3> 
                     </div>
                 </div>
                 
@@ -30,9 +30,9 @@
                 <div class="flex justify-center items-center">
                     <img src="@/assets/boxingarena.svg" alt="Boxing Arena">
                     <div class="flex flex-col gap-2 ml-6">
-                        <h1 class="font-light text-xs">Race98 - 03 June 2023</h1>
-                        <h2 class="font-bold text-base text-black">6-Year-Old Horse Dies at Belmont Park After Race Injury</h2>
-                        <h3 class="font-light text-sm">NEW YORK—A 6-year-old horse died after being injured in a race at Belmont Park ahead of next week’s</h3> 
+                        <h1 class="font-light text-xs">King.F - 03 June 2023</h1>
+                        <h2 class="font-bold text-base text-black">Ryan Garcia is fighting again, this time on social media</h2>
+                        <h3 class="font-light text-sm">Boxing star Ryan Garcia and his promoter, Hall of Fame fighter Oscar De La Hoya, reignited their war of words via Twitter on</h3> 
                     </div>
                 </div>    
             </div>
